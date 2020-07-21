@@ -1,0 +1,27 @@
+#Greet the User
+name = input ("Hello, what is your name?")
+print ("Hello"+name)
+print("What a beautiful name that is!")
+sport = input ("What is your favourite sport?")
+print ("Me to! I love"+sport)
+food = input ("What's your favourite type of food,"+name)
+print ("OMG we have so much in common! I try and eat"+food) 
+print ("whenever possible!") 
+print ("Can I please show you a super cool trick of mine!?!?!")
+print ("I DO NOT CARE WHAT YOU SAY I AM DOING IT ANYWAYS!")
+print ("readdddyyyy???") 
+num = int(input("enter a number: "))
+if num > 0:
+  print ("Positive")
+if num < 0: 
+  print ("Negative")
+else: 
+  print ("a")
+print ("See that!!! I can tell if a number is positive or negative!")
+print ("Are you impressed?")
+print ("Time to show me a trick!!!!!")
+print ("I'm watching!!!")
+print ("WOWOWOWOW!!!! THAT WAS AMAZING!")
+print("Well I better be off now, I have my"+food) 
+print("that I need to eat up")
+print("BYE BYE")
